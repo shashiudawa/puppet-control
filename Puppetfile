@@ -30,4 +30,4 @@ mod 'role',
 
 mod 'profile',
   :git => 'https://github.com/shashiudawa/puppet-profile.git',
-  :ref -> 'master'
+  :ref => 'master'
